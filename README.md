@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mudit Vyas  
+## 👋 Hi, I'm Tarun Helavar   
 I decode data,unveil discoveries, and enhance business strategies  
 
 📊 I am a Business Analyst skilled in: Excel, SQL, Power BI, Tableau.
