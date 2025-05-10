@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Mudit Vyas  
+I decode data,unveil discoveries, and enhance business strategies  
 
-<!--
-**tarunhelavar/tarunhelavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 I am a Business Analyst skilled in: Excel, SQL, Power BI, Tableau.
 
-Here are some ideas to get you started:
+📈 I am seeking a new opportunity where I can focus on developing my skills in Business analytics and visualization.
+  
+👩🏻‍💻 I am committed to improvements and learnings and focus on my professional and personal growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎵 Apart from Business Analysis,play badminton and Travelling. 
+
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/tarun-helavar-34139a249)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:tarunhelavar@gmail.com)
